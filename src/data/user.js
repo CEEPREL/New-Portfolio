@@ -38,7 +38,7 @@ const INFO = {
 			title: "Abamade",
 			description:
 				"Joined a team to develop Abamade using Vue.js and Tailwind CSS. This platform links Aba's manufacturers directly with consumers, enabling customers to access bulk or individual products while connecting manufacturers to both retail and end-user markets.",
-			logo: <img src="../../public/vue.png" alt="logo"></img>,
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://abamade.com.ng",
 		},
@@ -47,9 +47,9 @@ const INFO = {
 			title: "Rana",
 			description:
 				"Rana is a quick job solution center, offering a quick way for people to earn daily. It provides access to quick money for any job without requiring expertise. Visit Rana to easily earn from various tasks.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://rana.com.ng",
+			link: "https://rana.ng",
 		},
 
 		{
@@ -65,7 +65,7 @@ const INFO = {
 			title: "Flower Store",
 			description:
 				"Flower Store is an e-commerce project highlighting a variety of flowers with prices. Developed using React, the most challenging aspect was implementing the 'Add to Cart' functionality, which I successfully accomplished.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
