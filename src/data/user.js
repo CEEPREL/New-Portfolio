@@ -67,7 +67,7 @@ const INFO = {
 				"Flower Store is an e-commerce project highlighting a variety of flowers with prices. Developed using React, the most challenging aspect was implementing the 'Add to Cart' functionality, which I successfully accomplished.",
 				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/CEEPREL/Flower_Store",
 		},
 
 		{
