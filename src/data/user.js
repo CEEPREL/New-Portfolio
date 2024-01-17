@@ -61,23 +61,23 @@ const INFO = {
 			link: "https://reeplaylounge.com.ng/",
 		},
 
-		{
-			title: "Flower Store",
-			description:
-				"Flower Store is an e-commerce project highlighting a variety of flowers with prices. Developed using React, the most challenging aspect was implementing the 'Add to Cart' functionality, which I successfully accomplished.",
-				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com/CEEPREL/Flower_Store",
-		},
+		// {
+		// 	// title: "Flower Store",
+		// 	// description:
+		// 	// 	"Flower Store is an e-commerce project highlighting a variety of flowers with prices. Developed using React, the most challenging aspect was implementing the 'Add to Cart' functionality, which I successfully accomplished.",
+		// 	// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	// linkText: "View Project",
+		// 	// link: "https://github.com/CEEPREL/Flower_Store",
+		// },
 
-		{
-			title: "MusicPlayer",
-			description:
-				"This is a simple music app built with React, Tailwind, and the RapidAPI Shazam Core API. The app allows users to search for songs, view the song details, and play a preview of the song. The app also provides a list of related songs based on the user's search query.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com/CEEPREL/music_play",
-		},
+		// {'
+		// 	// title: "MusicPlayer",
+		// 	// description:
+		// 	// 	"This is a simple music app built with React, Tailwind, and the RapidAPI Shazam Core API. The app allows users to search for songs, view the song details, and play a preview of the song. The app also provides a list of related songs based on the user's search query.",
+		// 	// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	// linkText: "View Project",
+		// 	// link: "https://github.com/CEEPREL/music_play",
+		// },
 	],
 };
 
