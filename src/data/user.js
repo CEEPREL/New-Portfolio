@@ -70,7 +70,7 @@ const INFO = {
 		// 	// link: "https://github.com/CEEPREL/Flower_Store",
 		// },
 
-		// {'
+		// {
 		// 	// title: "MusicPlayer",
 		// 	// description:
 		// 	// 	"This is a simple music app built with React, Tailwind, and the RapidAPI Shazam Core API. The app allows users to search for songs, view the song details, and play a preview of the song. The app also provides a list of related songs based on the user's search query.",
