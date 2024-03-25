@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "My Portfolio",
+		title: "Ceeprel",
 		name: "Agboola Boluwatife",
 		email: "bolutifegboola@gmail.com",
 		logo: "../logo.png",
