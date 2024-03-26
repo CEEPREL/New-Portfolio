@@ -108,8 +108,8 @@ const Homepage = () => {
 											alt="about"
 											className="homepage-image"
 										/>
-									</div>
-								</div> */}
+									</div> */}
+								</div>
 							</div>
 						</div>
 
