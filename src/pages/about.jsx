@@ -97,14 +97,14 @@ const About = () => {
 							</div>
 
 							<div className="about-left-side">
-								<div className="about-image-container">
+{/* 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
 											src="about.jpg"
 											alt="about"
 											className="about-image"
 										/>
-									</div>
+									</div> */}
 								</div>
 
 								<div className="about-socials">
