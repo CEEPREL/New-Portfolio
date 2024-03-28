@@ -104,8 +104,8 @@ const About = () => {
 											alt="about"
 											className="about-image"
 										/>
-									</div> */}
-								</div>
+									</div>
+								</div> */}
 
 								<div className="about-socials">
 									<Socials />
