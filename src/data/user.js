@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack Developer, I see Artifical inteligence as a Revolutionary Technology.",
 		description:
-		"There are only a few Frontend engineers who possess the perfect finesse of translating ideas and designs into a fully functional and scalable web application, skillfully manipulating the DOM to implement unique functionalities with readable and optimized code. I count myself fortunate to be among them, with expertise in React and Vue.",
+			"There are only a few Frontend engineers who possess the perfect finesse of translating ideas and designs into a fully functional and scalable web application, skillfully manipulating the DOM to implement unique functionalities with readable and optimized code. I count myself fortunate to be among them, with expertise in React and Vue.",
 	},
 
 	about: {
@@ -37,7 +37,7 @@ const INFO = {
 		{
 			title: "Abamade",
 			description:
-				"Joined a team to develop Abamade using Vue.js and Tailwind CSS. This platform links Aba's manufacturers directly with consumers, enabling customers to access bulk or individual products while connecting manufacturers to both retail and end-user markets.",
+				"Changing the narrative of manufacturing in Nigeria, Abamade operates at the heart of the country's manufacturing hub in Aba. This highly optimized App bridges the gap between manufacturers and vendors, facilitating access to locally crafted products with ease.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://abamade.com.ng",
@@ -47,7 +47,7 @@ const INFO = {
 			title: "Rana",
 			description:
 				"Rana is a quick job solution center, offering a quick way for people to earn daily. It provides access to quick money for any job without requiring expertise. Visit Rana to easily earn from various tasks.",
-				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://rana.ng",
 		},
