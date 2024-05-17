@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack Developer, I see Artifical inteligence as a Revolutionary Technology.",
 		description:
-			"There are only a few Frontend engineers who possess the perfect finesse of translating ideas and designs into a fully functional and scalable web application, skillfully manipulating the DOM to implement unique functionalities with readable and optimized code. I count myself fortunate to be among them, with expertise in React and Vue.",
+			"There are only a few Software engineers who possess the perfect finesse of translating ideas into a fully functional and scalable web application, skillfully manipulating the DOM to implement unique functionalities with readable and optimized code. I count myself fortunate.",
 	},
 
 	about: {
