@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Agboola, Boluwatife. Full-stack Engineer",
 		description:
-			"There are only a few Software engineers who possess the perfect finesse of translating ideas into a fully functional and scalable application, skillfully implimenting business logics, functionalities with clean and optimized code. I count myself fortunate. I've worked on a variety of projects using various technologies over the years and I'm proud of my Journey.",
+			"TThere are only a few software engineers who possess the perfect finesse to translate ideas into fully functional and scalable applications, skillfully implementing business logic and functionalities with clean, optimized code. I count myself fortunate. I've worked on a variety of projects using different technologies over the years, and I'm proud of my journey.",
 	},
 
 	about: {
