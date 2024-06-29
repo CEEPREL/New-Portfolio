@@ -16,15 +16,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack Developer, I see Artifical inteligence as a Revolutionary Technology.",
+		title: "Agboola, Boluwatife. Full-stack Engineer",
 		description:
-			"There are only a few Software engineers who possess the perfect finesse of translating ideas into a fully functional and scalable web application, skillfully manipulating the DOM to implement unique functionalities with readable and optimized code. I count myself fortunate.",
+			"There are only a few Software engineers who possess the perfect finesse of translating ideas into a fully functional and scalable application, skillfully implimenting business logics, functionalities with clean and optimized code. I count myself fortunate. I've worked on a variety of projects using various technologies over the years and I'm proud of my Journey.",
 	},
 
 	about: {
 		title: "I’m Agboola Boluwatife a software engineer from Nigeria",
 		description:
-			"I'm a Fullstack engineer with 4+ years of solid expirence in frontend development using React and Vue JS. I've worked on a variety of projects using various technologies over the years and I'm proud of my Journey.",
+			"I'm a Fullstack engineer with 4+ years of solid expirence in frontend and backend development. I've worked on a variety of projects using various technologies over the years and I'm proud of my Journey.",
 	},
 
 	articles: {

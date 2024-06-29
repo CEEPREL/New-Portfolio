@@ -49,55 +49,184 @@ const About = () => {
 									{INFO.about.description}
 								</div>
 
-								<div className="tech-break" style={{ paddingTop: '50px' }}>
+								<div
+									className="tech-break"
+									style={{ paddingTop: "50px" }}
+								>
 									<h3>Technologies</h3>
+								</div>
+								<div className="technology">
+									<div className="tech-title">Javascript</div>
+									<div className="progress">
+										<div
+											className="progress-bar"
+											style={{
+												width: "85%",
+												background: "black",
+											}}
+										>
+											85%
+										</div>
+									</div>
+								</div>
+								<div className="technology">
+									<div className="tech-title">Python</div>
+									<div className="progress">
+										<div
+											className="progress-bar"
+											style={{
+												width: "80%",
+												background: "black",
+											}}
+										>
+											85%
+										</div>
+									</div>
 								</div>
 								<div className="technology">
 									<div className="tech-title">Typescript</div>
 									<div className="progress">
-										<div className="progress-bar" style={{ width: '75%', background: 'black' }}>75%</div>
+										<div
+											className="progress-bar"
+											style={{
+												width: "75%",
+												background: "black",
+											}}
+										>
+											75%
+										</div>
+									</div>
+								</div>
+								<div className="technology">
+									<div className="tech-title">Django</div>
+									<div className="progress">
+										<div
+											className="progress-bar"
+											style={{
+												width: "85%",
+												background: "black",
+											}}
+										>
+											85%
+										</div>
+									</div>
+								</div>
+								<div className="technology">
+									<div className="tech-title">FastAPI</div>
+									<div className="progress">
+										<div
+											className="progress-bar"
+											style={{
+												width: "85%",
+												background: "black",
+											}}
+										>
+											85%
+										</div>
 									</div>
 								</div>
 								<div className="technology">
 									<div className="tech-title">React JS</div>
 									<div className="progress">
-										<div className="progress-bar" style={{ width: '85%', background: 'black' }}>85%</div>
+										<div
+											className="progress-bar"
+											style={{
+												width: "85%",
+												background: "black",
+											}}
+										>
+											85%
+										</div>
 									</div>
 								</div>
 								<div className="technology">
 									<div className="tech-title">Vue JS</div>
 									<div className="progress">
-										<div className="progress-bar" style={{ width: '80%', background: 'black' }}>75%</div>
+										<div
+											className="progress-bar"
+											style={{
+												width: "80%",
+												background: "black",
+											}}
+										>
+											75%
+										</div>
 									</div>
 								</div>
 								<div className="technology">
 									<div className="tech-title">Angular</div>
 									<div className="progress">
-										<div className="progress-bar" style={{ width: '70%', background: 'black' }}>75%</div>
+										<div
+											className="progress-bar"
+											style={{
+												width: "70%",
+												background: "black",
+											}}
+										>
+											75%
+										</div>
 									</div>
 								</div>
 								<div className="technology">
 									<div className="tech-title">Jest</div>
 									<div className="progress">
-										<div className="progress-bar" style={{ width: '70%', background: 'black' }}>75%</div>
+										<div
+											className="progress-bar"
+											style={{
+												width: "70%",
+												background: "black",
+											}}
+										>
+											75%
+										</div>
 									</div>
 								</div>
 								<div className="technology">
 									<div className="tech-title">Express JS</div>
 									<div className="progress">
-										<div className="progress-bar" style={{ width: '75%', background: 'black' }}>75%</div>
+										<div
+											className="progress-bar"
+											style={{
+												width: "75%",
+												background: "black",
+											}}
+										>
+											75%
+										</div>
+									</div>
+								</div>
+								<div className="technology">
+									<div className="tech-title">Postgresql</div>
+									<div className="progress">
+										<div
+											className="progress-bar"
+											style={{
+												width: "75%",
+												background: "black",
+											}}
+										>
+											75%
+										</div>
 									</div>
 								</div>
 								<div className="technology">
 									<div className="tech-title">Mongo DB</div>
 									<div className="progress">
-										<div className="progress-bar" style={{ width: '75%', background: 'black' }}>75%</div>
+										<div
+											className="progress-bar"
+											style={{
+												width: "75%",
+												background: "black",
+											}}
+										>
+											75%
+										</div>
 									</div>
 								</div>
 							</div>
 
 							<div className="about-left-side">
-{/* 								<div className="about-image-container">
+								{/* 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
 											src="about.jpg"
