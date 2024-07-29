@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Agboola, Boluwatife",
+		title: "Agboola, Boluwatife ",
 		description:
 			"There are only a few software engineers who possess the perfect finesse to translate ideas into fully functional and scalable applications, skillfully implementing business logic and functionalities with clean, optimized code. I count myself among them. Over the years, I have worked on a variety of projects using different technologies, and I am proud of my journey.",
 	},
