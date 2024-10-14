@@ -101,7 +101,7 @@ const Homepage = () => {
 							</div>
 
 							<div className="homepage-first-area-right-side">
-{/* 								<div className="homepage-image-container">
+								{/* 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
 											src="homepage.jpg"

@@ -1,9 +1,11 @@
 .all-projects-container {
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 10px;
+	width: 100%;
 	align-items: stretch;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	margin-left: -35px;
 	margin-right: -35px;
 }
@@ -11,12 +13,13 @@
 .all-projects-project {
 	width: calc(100% / 3);
 	box-sizing: border-box;
-	padding: 10px;
+	padding: 5px;
 	overflow: hidden;
+	width: 100%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
 	.all-projects-project {
-		width: calc(100% / 2);
+		width: 100%;
 	}
 }

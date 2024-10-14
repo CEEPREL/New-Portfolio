@@ -45,6 +45,7 @@
 
 .project-description {
 	color: var(--secondary-color);
+	width: 100%;
 }
 
 .project-link {
@@ -65,8 +66,14 @@
 	font-weight: 700;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
 	.project {
 		height: 300px;
+		width: 100%;
+		background-color: #000;
+	}
+	.project-description {
+		width: 100%;
+		background-color: #000;
 	}
 }
